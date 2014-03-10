@@ -243,7 +243,15 @@ ___
 ## 3. Accompagnement graphique dans l'émergence d'une nouvelle cognition.
 
 
-	[ _Commentaire work in progress :_ J'ai regroupé récemment les deux dernières parties (3 et 4) en une seule. Donc pour le moment cette nouvelle partie n'est pas structurée, c'est encore les paragraphes des 2 dernières parties les uns à la suite des autres. L'idée est de parler dans cette partie de l'émergence d'un nouveau système de cognition basé sur la sémantique, les métalangages (ex: ieml Pierre Levy) et les métadonnées. De ces métalangages et métadonnées je souhaite montrer que l'information se spécialise, elle permet la diversité, (donner l'exemple de la "longue traine" de Anderson). Ensuite montrer que l'utilisateur est de plus en plus au centre des choses sur Internet. Poser la question de la personnalisation et de la création personnalisée. Puis évoquer les recherches de Pierres Levy sur des écosystèmes de pensées. La partie sur la surveillance sera surement différente, voir le supprimer.]
+	[ Commentaire work in progress : J'ai regroupé récemment les deux dernières parties (3 et 4) en une seule.
+	Donc pour le moment cette nouvelle partie n'est pas structurée, c'est encore les paragraphes des 2 dernières
+	parties les uns à la suite des autres. L'idée est de parler dans cette partie de l'émergence d'un nouveau
+	système de cognition basé sur la sémantique, les métalangages (ex: ieml Pierre Levy) et les métadonnées. De
+	ces métalangages et métadonnées je souhaite montrer que l'information se spécialise, elle permet la
+	diversité, (donner l'exemple de la "longue traine" de Anderson). Ensuite montrer que l'utilisateur est de
+	plus en plus au centre des choses sur Internet. Poser la question de la personnalisation et de la création
+	personnalisée. Puis évoquer les recherches de Pierres Levy sur des écosystèmes de pensées. La partie sur la
+	surveillance sera surement différente, voir le supprimer.]
 
 #####Le web sémantique
 
@@ -287,7 +295,7 @@ Pierre Levy, imagine un futur ou les objets, les personnes, les lieux seront aug
 
 ___
 
-#####Interfaces fluides pour une web décloisonné
+##### Interfaces fluides pour une web décloisonné
 
 Nous venons de voir, que le contenu va s'affranchir de son support pour exister sous la forme d'entités, de données fluides. Par conséquent, le web va se décloisonner, se liquéfier. Les frontières solides entre les sites Internet vont disparaître. La division de l'information par leurs supports, les pages web vont se dissoudre. Les données n'appartiendront plus nécessairement à un site web, elles seront volatiles, reliées entre elles en fonction de leur sens. Ce sont les liens qui les relient qui sont importants, ce sont eux qui apportent le sens entre ces unités de contenu.
 ___
@@ -312,7 +320,7 @@ ___
 Ainsi, nous observons une division dans le travail du graphiste. Dans un premier cas, il peut agir sur le contenu en créant des unités virales qui se déploient sur Internet. Ces créations sont proches d'un acte politique, la parole est au designer. Dans un second cas, il travaille une architecture fluide de site Internet. La mise en page fluide, est une mise en page par la logique et par les systèmes. Ainsi, le design fluide est un design qui n'a pas d'emprise dans le temps.
 ___
 
-#####Métadonnées et web personnalisée 
+##### Métadonnées et web personnalisée 
 
 D'autre part, la navigation sur Internet est façonnée par les données que nous laissons. En connaissant nos habitudes, Google nous donne des réponses à nos requêtes plus performantes. Par exemple, Amazone à partir de mes recherches me propose des livres en rapport avec mes sujets de recherches. Ainsi, le web est en train de se personnaliser. Nos recherches vont être transformées par des algorithmes prédictifs, de ce fait Google saura avant nous quelles informations vont nous intéresser. Ainsi, notre accès à l'information va devenir complément personnalisé. Aujourd'hui, sans le savoir nous ne regardons pas le même web, chacun voit la page d'accueil d’Amazone en fonction de ses préférences, sans les avoir jamais définis.
 
