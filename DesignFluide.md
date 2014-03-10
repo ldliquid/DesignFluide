@@ -1,16 +1,18 @@
-<font color='bleue'> ///En bleu ce sont des commentaires de work in progress///</font>
+	[Entre crochers ce sont des commentaires de work in progress]
 
 #####Avant propos
 _Ce mémoire a été rédigé en _Markdown_. Il s'agit d'un langage de balisage, c'est à dire une syntaxe web comme l'est _Html_ par exemple. Les balises _html_ ou _Markdown_ sont des bouts de codes qui donnent des instructions (de formatage) aux ordinateurs pour hiérarchiser le texte : indiquer par exemple les zones en italique, les titres ou les retours à la ligne. Markdown est un outil de conversion du texte vers le html. Il a été créé pour permettre à l'utilisateur d'écrire facilement et de lire facilement un texte qui sera ensuite automatiquement généré en code _html_. Un document _Markdown_ peut être publié tel quel, sans donner l'impression d'être du code informatique. J'ai utilisé le logiciel _Mou_ comme traitement de texte. Il y a d'un côté le texte en _Markdown_ avec les balises visibles et de l'autre le texte avec le style appliqué. Ce langage me permet d'être fluide dans le traitement du texte. Je hiérarchise les informations, _titre_ ou _sous-titre_ par exemple et je choisirai, par la suite, leurs styles graphiques (couleur, taille..) avec une feuille de style CSS. Je peux donc utiliser ce texte, à la fois pour un document imprimé et pour un usage web ; il est compris à la fois des humains et des machines. Ce langage me permet d'agir de manière fluide sur la forme de mon texte._
 
-![alt text](img/img.png "Mou")
+![alt text](img/img.png "Mou")  
 Capture d'écran du logiciel Mou
 
 #Memoire : Design Fluide
 ___
 
 ##Introduction
+
 #####Designer la société fluide
+
 Design web, design d'interaction, design multimédia, avec la démocratisation d'Internet des nouveaux métiers de designers se sont créés. Quels sont les enjeux de ces nouvelles professions? La société de l'information et l'émergence de la communication numérique ont déterminé une nouvelle industrie et de nouveaux systèmes économiques qui ont des conséquences sur le rôle du designer. Vingt ans après l'avènement d'Internet, je cherche à redéfinir le métier de _graphiste_. Je souhaite proposer une définition personnelle du design de demain: établir la fiche technique d'une nouvelle pratique de création.
 
 Internet a bouleversé la façon dont notre société fonctionne. Ce bouleversement a fait naître de nouveaux possibles. De manière générale, les changements et ruptures dans la société ont tendance à faire peur : beaucoup de personnes préfèrent penser que _c'était mieux avant_. Or, je considère que ce qui est captivant ce sont justement les failles, les glissements, les changements. C'est dans la nouveauté que les choses les plus intéressantes apparaissent. Sophie Pène expliquait lors d'une conférence sur _le design en temps de crise_ à l'Ensad, que ce qu'elle trouve intéressant c'est _le design **en tant que** crise_. Le design, en cherchant à simplifier la complexité (par les data visualisations par exemple), manque la source d'intérêt, il se _voile la face_. Il devrait, au contraire, s'intéresser à l'asymétrie, à la crise: regarder les failles.
@@ -29,6 +31,7 @@ De la même manière que le designer objet a eu une position stratégique pendan
 ___
 
 #####De la société fluide au Design fluide
+
 Le terme de "fluide" est emprunté à l'auteur Joël de Rosnay, il est le premier à définir la société comme fluide dans son livre _Surfer la vie: Vers la société fluide_. L'auteur nous explique comment nous sommes en train de passer d'une société solide à une société fluide.
 
 La société solide est une société héritée du capitalisme et de la société de consommation ; elle fonctionne selon des rapports de forces et des hiérarchies. Les entreprises, les organisations, les gouvernements s'organisent de manière pyramidale, une tête dirigeante qui contrôle la base de la pyramide. Les entreprises entre elles fonctionnent selon des rapports de force, l'économie actuelle est en partie fondée sur une volonté de compétition. D'un point de vue géopolitique ce sont les mêmes rapports : les pays du "nord économique" exercent une puissance sur les pays du sud. Les relations entre les différents pays sont en tension, chaque pays défend sa position à travers des relations internationales complexes. Ainsi les états défendent leurs territoires et dans certains cas cherchent à en conquérir de nouveaux. La société solide est fondée sur un système compétitif entre les états, les entreprises, mais aussi entre les citoyens. C'est une course continuelle en quête de puissance et de reconnaissance.
@@ -41,11 +44,9 @@ De plus, Zygmunt Bauman évoque dans _Liquid Modernity_ de nouveaux systèmes de
 ___
 
 **Nous sommes en train de passer d'une société solide, basée sur des rapports de force, des hiérarchies pyramidales, à une société fluide basée sur l'échange et la transversalité. Quel design pouvons-nous envisager pour demain à partir des enjeux de la société fluide ?**
-
 ___
 
 Joël de Rosnay dans la vidéo, _les quatre Web_, développe les évolutions successives d'Internet. Le premier web, 1.0, est un web uniquement spatial, ce sont des documents hébergés sur des pages web. Le Web 2.0, celui que nous connaissons aujourd'hui, amène une idée d'espace-temps. Les sites sont devenus des plateformes. Sur une page unique, les informations se chargent sous la forme de flux en constante évolution. Le flux augmente, diminue. En rechargeant la page, les éléments changent, se mettent à jour. Par exemple, avec une plateforme comme _twitter_, le flux d'actualité évolue en permanence. J'ai compris que le design devenait fluide par cette évolution entre le web 1.0 et le web 2.0. Après avoir admis que la société devenait fluide, je me suis rendue compte que le design de la même façon devenait, lui aussi, fluide. Internet est un media fluide et il a fluidifié la société mais aussi le design. Ces observations personnelles ont été validées par un article du designer Gilles de Brock qui remarque, que si Internet n'a pas d'état solide, dans quel état se trouve t-il? Dans un état liquide ? ("But if internet knows no solid state which state does it have then? Maybe liquid?")
-
 ___
 
 Nous allons chercher à définir ce qu'est un design fluide. Le design fluide ne possède pas de formes fixes, il est en changement constant; en opposition avec un design solide, qui a une forme figée dans le temps, une fois produites ou imprimées elles sont immuables. Le design fluide est un design réactualisé, il est dans un éternel changement, augmenté par des flux d'informations.
@@ -57,10 +58,14 @@ Or, le design fluide est augmenté de nouveaux paramètres. Le premier paramètr
 Jonathan Puckey du studio _Moniker_ a réalisé un projet qui souligne et rend visible ces évolutions de contenu au cours du temps. Il s'est intéressé à la fluctuation des informations. _The Quick Brown_ est un site qui affiche les évolutions successives des gros titres d'actualité des sites d'informations. Par des ratures visibles, il montre les modifications. En effet, Internet étant un media qui permet la mise à jour en permanence, les rédacteurs des sites d'informations apportent des retouches au texte, légères ou radiales, en fonction de l'évolution de l'actualité. Ce projet souligne ainsi l'aspect fluide d'internet. Cette idée du titre immuable tel que nous le connaissons dans les medias solides (journaux, livre..) se trouve métamorphosé en une forme fluide et adaptable.
 
 ![Moniker](img/moniker1.png "Moniker")
+
 ![Moniker](img/moniker2.png "Moniker")
+
 _Capture d'écran du projet **The Quick Brown** de Jonathan Puckey du studio **Moniker**_
 ___
+
 #####Les trois facette de la Société Fluide
+
 Dans mon mémoire, je souhaite approfondir la notion de société et de design fluide. Je souhaite mettre en relation les enjeux de la société fluide avec des enjeux de design fluide. Le profil de la société fluide peut se définir selon trois faces : c'est à partir de ces trois axes que nous allons envisager le profil du design de demain. Ainsi, nous allons mettre en relation des enjeux de design avec des enjeux de société. 
 
 La première face de la société fluide se base sur l'idéologie du partage et de la contribution, cela se base sur la capacité de copie et de modification des objets sur Internet. Nous allons voir comment le design fluide s'adapte à ce nouveau système de création et de participation par la copie, en étudiant notamment l'open source et l'importance des biens communs dans la société fluide.
@@ -70,12 +75,15 @@ La seconde face de la société fluide émerge de l'intelligence collective et d
 La dernière face de cette société réside dans l'augmentation des capacités cognitives des individus notamment par l'émergence d'une nouvelle couche de connexion à la surface d'Internet: le web sémantique. Nous allons chercher à comprendre comment le web sémantique permet une transformation des ressources de connaissances pour les Hommes. Nous observerons l'influence des métalangages et des métadonnées sur l'information et nous montrerons l'émergence de la diversité et de la personnalisation des informations sous forme d'écosystèmes informationnels. Ainsi, nous questionnerons l'utilisation des métadonnées et nous verrons en quoi le designer graphique se doit d'accompagner l'émergence de ces nouveaux outils de cognition.
 
 ![alt text](img/graphic1.png "Mou")
-_Schéma des trois faces de la société fluide et leur conséquence sur le design fluide_
+
+_Schéma des trois faces de la société fluide et leurs conséquences sur le design fluide_
 
 ___
+
 ## 1. De la copie à la contribution : nouveaux enjeux de création fluide
 
 #####Internet un espace de partage et de contribution
+
 D'une part, la copie est l'une des fonctions fondamentales d'Internet. Nous pouvons dupliquer textes, images, codes avec une réelle facilité. Ces fonctionnalités sont à la base d'Internet et en sont les premières raisons de sa fluidité. La culture Internet s'est formée à partir de cette liberté de copie, de piratage ou de téléchargement. L'industrie de la musique a été entièrement transformée par ce simple fait de pouvoir la copier numériquement. C'est une idéologie très forte sur Internet, elle a été reprise par de grands groupes marketing comme Apple qui aura comme slogan "Rip, Mix, Burn" qui signifie "Copie, Mix, Grave".
 
 ![RipMixBurn](img/apple.png "RipMixBurn")
@@ -86,8 +94,10 @@ D'autre part, Internet est un espace commun à l'échelle mondiale, c'est à dir
 De ce double potentiel, à la fois espace permettant la copie et espace en commun à l'échelle mondiale (communautés) sont nés de nouveaux systèmes de fonctionnement fondés notamment sur la contribution et le partage.
 
 #####La copie comme outils contributif
+
 Dans cette première partie, nous allons développer la première facette de la société fluide : l'utilisation libre de la copie et son développement contributif et participatif. Nous allons définir les changements apportés par l'émergence de plateformes contributives ainsi que l'émergence d'outils ou d'objets libres (open source) comme nouveau système d'organisation dans la société fluide. Cette nouvelle organisation libre et participative rend le code source, les objets, les connaissances copiables et partageables dans le but d’augmenter le savoir dans l'intérêt de la communauté. De ces observations, nous allons chercher les enjeux par rapport à la création et au design. Est-ce qu'un design contributif est possible ? Quels sont les enjeux pour les droits d'auteurs et la propriété intellectuelle ?
 ___
+
 Nous venons de le dire, Internet offre la possibilité de créer des plateformes sur laquelle le monde entier peut se retrouver pour coopérer, travailler, discuter, échanger. Il existe de nombreuses plateformes contributives, nous allons en citer quelques unes:
 
 La plateforme _Edge_ est un site participatif, il s'agit d'un site de _co-working_. Les experts du monde entier s'associent sur cette plateforme et en travaillant ensemble sous forme de discussions, ils approfondissent les limites des connaissances humaines. Internet permet aux personnes, en partageant des intérêts communs, de se retrouver sur cet espace unique pour échanger, partager des objets ou des idées. 
@@ -97,26 +107,39 @@ La plateforme _Quora_ est une entreprise qui offre aux internautes la possibilit
 Le site _Stack Overflow_ qui fait partie du réseau de sites _Stack Exchange_ est aussi un site proposant un système de discussions sous forme de question-réponse dans le champ de la programmation.
 
 Une autre plateforme intéressante qui illustre parfaitement l'idée de _synchorisation_ (espace commun) défini en début de chapitre, est le site _EtherPad_. C'est un éditeur de texte libre qui permet à plusieurs personnes de collaborer sur un texte en temps réel grâce à une page web et une adresse URL. Chaque contributeur a une couleur de texte et ainsi, ensemble, les utilisateurs peuvent travailler sur un texte ou des notes.
-<font color='bleue'>// peut être donner l'exemple de wikipedia faire une courte analyse de ce media? </font>
+
+	[peut être donner l'exemple de wikipedia faire une courte analyse de ce media?]
 
 ![etherpad](img/etherpad.png "etherpad")
+
+_Capture d'écran de la plateforme etherpad_
 
 Nous pouvons remarquer qu'Internet a favorisé l'émergence de plateformes contributives, ce qui est à la base de la société fluide. Cette nouvelle organisation collaborative est en train de redéfinir le commerce, la politique, l'administration, l'éducation, le design, c'est à dire : le monde entier. L'ambition de la société fluide est de rompre les rapports de forces entre les individus et de permettre des échanges horizontaux entre eux. Ces échanges passent par la contribution, le partage des connaissances, comme le montre les différentes plateformes que nous venons d'évoquer. Ce qui fonde cette société, ce sont les liens, les interrelations, les interdépendances, les équilibres dynamiques, pour développer une société plus participative ou collective. L'intention de cette société émergente est de créer un pouvoir transversal, un pouvoir distribué sur le réseau. Ainsi, de vivre et produire ensemble pour une construction collective de l'avenir. Joël de Rosnay observe que "nous sommes en train de passer du système D au système Co". Une nouvelle organisation ou chacun peut agir pour tous ou travailler en collaboration. Ce qui permet l'apparition d'une Co-économie ou d'une économie de partage.
 
 De plus, Bernard Stiegler observe cette même évolution vers la contribution et il propose, lui aussi, une nouvelle économie fondée sur le partage : la distribution des responsabilités et des ressources grâce notamment aux nouvelles technologies réticulaires. Il remarque la fin de la société de consommation et l'émergence d'une nouvelle société, la société du partage, notamment du savoir et des connaissances. Bernard Stiegler propose un nouveau système économique basé sur l'automatisation. Il affirme que nous sommes en train de nous engager dans une société des automates, les automates sont partout dans notre corps, ils conduisent les voitures. Ainsi l'informatique, par l'algorithme, est un stade dans cette automatisation. Il affirme qu'elle va se généraliser et cela va rendre l'emploi de moins en moins nécessaire. "Regardez les caisses automatiques dans les supermarchés, les automates au péage, mais également les robots logiciels qui font le ménage sur _Wikipedia_. Ce que je soutiens c'est que c'est une bonne chose. À une condition: qu'on valorise la possibilité qu'ont les gens de développer leurs capacités sociales, leur savoir, leur travail au sens fort du terme, plutôt que leur seul emploi." Ainsi, ces systèmes automatiques libèrent du temps pour les citoyens. Et à l'inverse de "Time is money", Time is design : le désir de singularité grâce au temps libéré du travail.  Bernard Stiegler propose une nouvelle société basée sur de nouvelles valeurs, des valeurs sociales telles que l'art et le design et ainsi une nouvelle économie. 
 ___
+
 #####L'open source pour une création libre
+
 L'open source, où le code source est libre, est au cœur de cette idée idéale de partage. Il y a une dynamique fluide dans l'ouverture d'un programme, une dynamique se crée dans la capacité à pouvoir réutiliser/copier les données et dans la redistribution ensuite par la partage. L'open source est une pratique fluide car elle permet la décentralisation du pouvoir qui est donnée à l'ensemble de la communauté. C'est un pouvoir partagé qui n'a pas une volonté de contrôle car fondé sur des bases décentralisées. Cette capacité de partage, crée de la valeur sans créer forcement du profit, ces valeurs permettent une économie de la connaissance et transforme l'usager en contributeur. Il existe dans l'open source une possibilité d'amélioration par la base, chaque utilisateur peut modifier la partie de code qu'il souhaite.
 
 _GitHub_ est un bon exemple de travail collaboratif, c'est une plateforme qui héberge des projets de développement de plateformes (logiciel, site, application) utilisant le programme _Git_. Ce service reprend le système traditionnel de l'open source en proposant à chaque contributeur de copier les sources du projet d'un autre et de proposer en retour ses modifications à celui-ci. Il s'agit de _forker_ le projet d'un autre membre en rajoutant une _branche_ à l'arborescence de son projet. Visuellement sur le site, chaque projet possède l'arborescence de son évolution. Les utilisateurs _versionnent_ leur travail, c'est à dire qu'ils enregistrent des sauvegardes successives à différents moments de leur production. Ces différentes versions permettent à la communauté de modifier une partie du projet et ensuite de la proposer au créateur d'origine qui est libre d'intégrer cette modification à son projet. _GitHub_ est un modèle de communauté qui échange, partage dans la création. Cette plateforme propose aussi un système de réseau social entre les membres, qui peuvent discuter, échanger entre eux.
 
 ![Fork](img/github1.png "Fork")
+
 ![Fork](img/github2.png "Fork")
+
 ![Fork](img/github3.png "Fork")
 
-Cette notion de collaboration dans la création me parait tout à fait pertinente dans l'élaboration d'un design fluide. Le magazine _Wired_ propose un article sur les détournements de _GitHub_ à des fins de production dans le design. La plateforme est en train de s'ouvrir à des projets de design "Git Hub veut rendre la collaboration sur le design 3D et sur l'impression aussi facile qu'elle l'est avec le code." ("GitHub wants to make collaborating on 3-D Design and printing as easy as collaborating on code.") <font color='bleue'>/// a developper " "How the collaboration platform aims to help everyone do any projects" ///</font>
+_Fork sur Github_
 
-Il y a des outils intéressants qui sont en train de se mettre en place, des outils qui privilégient la collaboration à une échelle importante, il me semble que ce sont des ressources très riches pour la création de demain. Nous pouvons observer l'immense production de savoir permis par _Wikipedia_ et il est intéressant d'imaginer cette même contribution pour la création et le design. Nous pouvons nous demander si ce genre de contributions à grande échelle est possible dans le design, est ce qu'une plateforme de partage dédiée au design pourrait permettre de décupler les impacts de celui-ci ? Cependant, nous pouvons nous interroger sur le fait que les designers aient envie de contribuer à une communauté. Nous observons dans le milieu du design une augmentation des revendications d'auteurs. Le design d'auteur est un design très séduisant, très proche de la position de l'artiste, il est une quête de réalisation de soi par sa production. <font color='bleue'>///-Typographie libre / contribution pour la communauté Raphaël Bastide - //</font>
+Cette notion de collaboration dans la création me parait tout à fait pertinente dans l'élaboration d'un design fluide. Le magazine _Wired_ propose un article sur les détournements de _GitHub_ à des fins de production dans le design. La plateforme est en train de s'ouvrir à des projets de design "Git Hub veut rendre la collaboration sur le design 3D et sur l'impression aussi facile qu'elle l'est avec le code." ("GitHub wants to make collaborating on 3-D Design and printing as easy as collaborating on code.") 
+
+	[ à developper " "How the collaboration platform aims to help everyone do any projects" ]
+
+Il y a des outils intéressants qui sont en train de se mettre en place, des outils qui privilégient la collaboration à une échelle importante, il me semble que ce sont des ressources très riches pour la création de demain. Nous pouvons observer l'immense production de savoir permis par _Wikipedia_ et il est intéressant d'imaginer cette même contribution pour la création et le design. Nous pouvons nous demander si ce genre de contributions à grande échelle est possible dans le design, est ce qu'une plateforme de partage dédiée au design pourrait permettre de décupler les impacts de celui-ci ? Cependant, nous pouvons nous interroger sur le fait que les designers aient envie de contribuer à une communauté. Nous observons dans le milieu du design une augmentation des revendications d'auteurs. Le design d'auteur est un design très séduisant, très proche de la position de l'artiste, il est une quête de réalisation de soi par sa production. 
+
+	[Typographie libre / contribution pour la communauté Raphaël Bastide]
 ___
 
 Personnellement, la pratique d'auteur ne me semble pas antagoniste avec l'idée de contribution. Bernard Stiegler démontre que la contribution permet l'individuation, en contribuant à des projets je me développe en tant qu'individu.
@@ -125,15 +148,23 @@ ___
 En se fluidifiant, en partageant, je pense que les designers peuvent conjointement augmenter le potentiel du design ainsi que leur développement personnel. En permettant aux internautes de copier ce que je fais, je permets une fluidité des idées.
 ___
 
-Les graphistes belges du groupe _Open Source Publishing_ travaillent autour de ces questions d'open source et de contribution. Ils utilisent leur site Internet comme une plateforme de contribution. Leurs projets sont fait pour être copiés, ils sont en attente de développements contributifs : ils diffusent leurs fichiers sources qu'ils nomment "ingrédients". Ils nous incitent à "étudier, améliorer, redistribuer des copies, transmettre nos améliorations" (" We warmly welcome you to study them, improve them, to redistribute copies of them and release your improvements (or unstable versions as you like).") <font color='bleue'>///- a développer ///</font>
+Les graphistes belges du groupe _Open Source Publishing_ travaillent autour de ces questions d'open source et de contribution. Ils utilisent leur site Internet comme une plateforme de contribution. Leurs projets sont fait pour être copiés, ils sont en attente de développements contributifs : ils diffusent leurs fichiers sources qu'ils nomment "ingrédients". Ils nous incitent à "étudier, améliorer, redistribuer des copies, transmettre nos améliorations" (" We warmly welcome you to study them, improve them, to redistribute copies of them and release your improvements (or unstable versions as you like).") 
+
+	[ à développer ]
 
 ![osp](img/osp.png "osp")
+
+_Site d'Open Source Publishing_
 ___
+
 #####Des licences libres pour une création fluide
+
 Ces idées et possibilités sont passionnantes et stimulantes, cependant, la copie n'est pas toujours légale et elle est souvent confrontée aux questions de droit d'auteur et de copyright. Cette duplication généralisée est à la fois la force d'Internet mais cela pose en contre partie des problèmes d'éthiques en termes de création. Cette capacité de copie remet en cause la notion d'unicité d'une œuvre d'art. 
 ___
+
 Dans "l'œuvre discrète", Eric Watier nous montre que "jusque-là une œuvre de l’esprit avait nécessairement un support physique fixe". Effectivement nous l'avons vu, le principe du design solide est de produire des formes figées dans le temps. De ce fait, "le droit d’auteur protégeait l’originalité d’une idée grâce à l’originalité de son inscription dans une forme. Les deux étaient inséparables." Or, le support à évolué, il est devenu fluide, liquide: il y a une différence entre le code et le support (toujours différent) qui accueillera la création. "Pour profiter d’un objet numérique, il faut le réactiver." "Si au début du XXe siècle c’était encore la reproduction d’un objet qui provoquait sa consommation, aujourd’hui c’est le désir de consommation d’un objet qui va provoquer sa reproduction : pour consommer il faut reproduire." Eric Watier explique d'autre part que le téléchargement ne prive personne, il ne retire aucun objet. Au contraire, il en crée un supplémentaire. "Il provoque la réactualisation d’un objet par l’édition d’un objet supplémentaire". De ce fait l'industrie parle de vol là où il s'agit de production supplémentaire, de copie. Et l'auteur pose une question essentielle: "Comment penser l’économie d’un objet si sa consommation n’est plus son épuisement mais sa prolifération ?"
 ___
+
 Ces volontés de partages sont antinomiques avec les licences et les brevets traditionnels. Les notions de liberté de duplication sont au centre des nouveaux enjeux de société. Est-ce que cette notion de copie est viable dans la création? Il existe déjà des nouveaux systèmes de licence comme le "creative commons" qui est une organisation qui propose une alternative au "droit de propriété intellectuelle". Son slogan: "partager, remixer" explique bien l'idée selon laquelle il souhaite faciliter la diffusion et le partage. 
 
 Ainsi, ce passage de mains en mains dans la création nous renvoie à un design liquide, un design fuyant. Pour que le design soit fluide, il faut briser son idée d'unicité. Tant que la création sera vue comme un objet ayant une forme unique, cette création sera solide et inadaptée au media Internet. Une création en adéquation avec Internet est une forme capable d'être partagée et modifiée à l'infini. Une forme qui coule et évolue suivant les évolutions qu'elle subit. Lawrence Lessig explique, dans _L'avenir des idées_, l'importance des ressources libres et des biens communs ; "les ressources libres ont toujours été un élément clé de l'innovation". "Il estime que le "partage légal" et la "réutilisation" de la propriété intellectuelle sont des bienfaits pour la société." Le copyleft est une alternative au copyright, l'auteur autorise par le copyleft, l’utilisation, la modification, l'étude, la diffusion de son œuvre. Le copyleft est popularisé par Richard Stallman. 
@@ -142,8 +173,11 @@ La possibilité de copie est le meilleur moyen d'assurer l'ouverture. Internet e
 
 D'autre part, le virus informatique est basé sur cette idée de duplication insatiable, il est lâché dans le cyberespace et la réplication devient son moteur le plus puissant.  Cette capacité de duplication permet une fluidité d'échange entre les hommes et elle améliore le partage.
 ___
+
 ## Propagation de l'information, prolifération des données
+
 #####Emergence d'une communication fluide par l'intelligence collective et l'auto-organisation des internautes
+
 Comme nous venons de le développer dans le paragraphe précédent, le copier/coller est une des actions caractéristiques d'Internet, il a permis aux utilisateurs de partager des informations et des objets et ainsi de créer des systèmes de contributions. La copie génère un principe de mouvement, de dynamisme. Il y a un mouvement fluide qui est permis par l'action de prendre, de modifier, et de redistribuer. Il y a une mise en mouvement des choses par l'imitation.
 
 Cette duplication à l'échelle de l'ensemble des internautes, rend le web animé. Nous avons l'impression qu'Internet fonctionne comme un organisme vivant, c'est dû à la somme des actions de chaque internaute. En cliquant, dupliquant, naviguant ils rendent cet espace actif. C'est cette notion de multitude qui crée de la valeur sur Internet, "plus il y a de contributeurs, de relations créées, plus internet sera riche de ressources." (L'alchimie des multitudes PISANI)
@@ -154,21 +188,26 @@ Cette idée de _crowdsourcing_ est largement répandue, des sites comme _Kick St
 
 Ce qui m'intéresse plus particulièrement dans l'intelligence collective, c'est la façon dont les internautes façonnent la communication sur Internet. De la même manière que le crowdsourcing, par la somme de leurs actions, les internautes influencent les mouvements d'information. Les informations sur Internet subissent donc des modifications par la copie, la sélection ou le commentaire. Les internautes sont de plus en plus impliqués dans la transmission du contenu. Par exemple, sur _Twitter_ l'utilisateur choisit les flux d'informations qu'il veut suivre. De plus, il a accès à la diffusion d'informations, il est à la fois le consommateur et le producteur. "Les "cascades d’informations" retweetées propagent les flashs d’information à travers tout Twitter en un instant, ce qui en fait la première source de prise de connaissance de l’actualité pour de nombreuses personnes." (Traduction par XX du texte de Tim O'Reilley : Web squared: Web 2.0 Five Years On 2009)" 
 
-<font color='bleue'>// ex: hashtag # - créé par la communauté // ex: La constitution islandaise construite ne crowdsourcing. //</font>
+	[ex: hashtag # - créé par la communauté // ex: La constitution islandaise construite ne crowdsourcing. ]
 
 #####Création d'un langage fluide par la mémétique
+
 Nous allons voir en quoi la communication d'Information a évolué, dû aux actions infinies des internautes, en quoi l'intelligence collective à modifié la communication. Premièrement, je souhaiterais faire un parallèle avec la _mémétique_, définie par Richard Dawkins en 1976 dans son livre le "Gène égoïste", puis reprise et étudiée par Susan Blackmore. L'étude de la mémétique est l'observation de l'évolution des informations et des cultures qui survivent ou se répandent comme le fait la génétique, par la sélection naturelle. La mémétique inclut l'extinction, la propagation et la mutation de ces éléments de culture. La mémétique se base sur la notion de _mème_, terme formulé par Richard Dawkins. Le _mème_ définit ce qui est imité. Ainsi, la _mémétique_ reprend le principe de la théorie de l'évolution de Darwin et l'applique à des éléments de culture comme les codes, les schémas informationnels, les comportements, ... De la même manière que les espèces subissent une sélection naturelle par leur reproduction, les choses que nous imitons subissent elles aussi une sélection. Susan Blackmore explique qu'il y a mémétisme quand il y a copie avec variation plus sélection. Elle montre que l'imitation entraine la création de design émergeant de nulle part. On ne peut pas l'arrêter. Ainsi, toute information qui est modifiée et sélectionnée va produire de la création ("any information that is varied and selected will produce design"). Elle explique comment la _mémétique_ crée de l'intelligence : c'est en nous imitant que nous créons des comportements, des religions et notamment des langages.
 ___
 
 Ainsi, est-ce en se copiant les uns les autres que les hommes ont développé des langages. Nous pouvons penser qu'Internet en tant qu'espace hautement mimétique (grâce à la copie et à l'intelligence collective) est un espace qui crée un nouveau langage : un nouveau système de communication fondé sur la duplication. L'exemple principal de ce nouveau langage est le _mème Internet_, reprenant le terme de Dawkins. Les mèmes sont des unités de culture ou de comportements qui survivent et se propagent par l'imitation et l'adaptation. L'Oxford English Dictonnary définit le mème comme étant: "un élément d'une culture pouvant être considéré comme transmis par des moyens non génétiques, en particulier par l'imitation". Ainsi, sur Internet une nouvelle forme de communication est née, une communication par la **propagation**. Les informations sur Internet sont en permanence dupliquées, c'est par ces copies qu'elles se déplacent dans le cyberespace. La copie, dans la durée d'un même élément, provoque sa propagation, sa duplication en chaîne entraine une idée de mouvement, de prolifération. Les _mèmes internet_ errent sur le web de manière fluide, au grès des courants, ils sont copiés, amplifiés, détournés. La duplication leur donne de l'importance. Plus une image est vue, plus elle sera dupliquée. Ce sont des petites portions de culture de l'air du temps. Les trois qualités d'un _mème_ sont la _longévité_, la _fécondité_, et la _fidélité_ de ses copies. Les _mèmes_ ont tendance à être plus efficaces s’ils sont à la fois copiés et imités. ("Memes tend to be most successful if they get both copied and imitated")
 
-De la même manière que les espèces subissent la théorie de l'évolution, l'information est auto-sélectionnée par les mouvements de mass média, ainsi certaines informations perdurent pendant que d'autres s'éteignent. <font color='bleue'>/// auto-organisation - auto gestion sur Internet Thierry Crouzet - Le peuple des connecteurs. ///</font>
+De la même manière que les espèces subissent la théorie de l'évolution, l'information est auto-sélectionnée par les mouvements de mass média, ainsi certaines informations perdurent pendant que d'autres s'éteignent. 
+
+	[ auto-organisation - auto gestion sur Internet Thierry Crouzet - Le peuple des connecteurs. ]
 
 Susan Blackmore explique que la théorie de l'évolution de Darwin est basée sur l'idée: "*Si* il y a des créatures qui varient, *si* il y a une combat pour la vie, et *si* certaines créature survivent, *alors* c'est qu'elles doivent être mieux adaptées que leurs parents". Ce que Susan Blackmore veut souligner c'est l'idée de *si, si, si, alors*. Darwin avait ainsi décrit le principe d'un algorithme avant même sa création. 
 
 D'autre part, Pierre Levy explique dans _l'intelligence collective_, les évolutions de la communication. Avant les médias imprimés, la communication se faisait par la parole, ce sont des échanges fluides car ils impliquent le corps et le geste; par exemple, la parole est basée sur un système d'interaction. Selon l'auteur, les medias imprimés ont figé la communication: "les technologies médiatiques fixent et reproduisent les messages" pour atteindre un public très large : la masse. Ils ont une échelle bien plus grande que les media "somatiques" (parole, danse...) "Mais, ce faisant, ils les décontextualisent et leur font perdre la capacité qu'ils avaient de s'adapter aux situations lorsqu'elles étaient émises par des corps vivants." Nous avons défini dans l'introduction les médias imprimés comme étant solides. C'est ce que Pierre Lévy explique lorsqu'il dit que "dans le communication écrite traditionnelle, toutes les ressources du montage sont employées au moment de la rédaction. Une fois imprimé, le texte matériel garde une certaine stabilité…" Cependant, l'auteur explique que Internet, en tant qu'espace d'interaction et d'échange, permet une communication "vivante". Selon lui, on retrouve dans le cyberespace cette notion d'échange et de fluidité des informations. "Le cyberespace tend à reconstituer sur une plus grande échelle le plan lisse, le continuum individus, le bain vivant et fluctuant qui unissaient les signes et les corps, comme les signes entre eux avant que les médias n'isolent et ne fixent les messages." Ainsi, la communication sur Internet par ses interactions est une communication fluide. C'est une communication dans le mouvement et dans l'espace, un nouveau langage fluide qui permet une communication virale. "Le numérique autorise la fabrication des messages, leur modification et même l'interaction avec eux, atome d'information par atome d'information, bit par bit".
 ___
+
 #####Propagation des informations: Un design fluide aux propriétés virales
+
 Selon Metahaven, "L'action politique au 21ème siècle a dépassé le manifeste. Pour atteindre une taille critique, il déploie de nouvelles stratégies avec des propriétés virales et des compétences de survie darwinienne". ("Political action in the 21st century has moved beyond the manifesto. To achieve scale, it is deploying new strategies with viral properties and Darwinian survival skills."). La remarque de Metahaven est très pertinente, et je souhaiterais développer cette idée pour le design graphique, que la viralité et la propagation soit l'essence du graphisme de demain : du design fluide. 
 
 De ce fait, il serait intéressant de développer un design aux propriétés virales. Le design fluide doit suivre l'extrême fluidité des _mèmes_, c'est à dire rentrer littéralement dans le cyberespace et se laisser ballotter au gré des courants. Metahaven se demandent au début de leur livre, si la dernière chose que le design graphique doit faire serait de se poster lui-même sur Internet ? ("Is it possible that graphic design has only one thing left to do, which is posting itself on the Internet ?") 
@@ -176,18 +215,26 @@ De ce fait, il serait intéressant de développer un design aux propriétés vir
 En observant les _mèmes_ et leurs évolutions dans le cyberespace je remarque que l'information tend à être de plus en plus divisée en petites entités : en unité de pure information. Ainsi, cela transforme la façon dont le design graphique peut créer du contenu. En déposant une unité de création sur Internet, je la dépose à la surface d'un organisme vivant, qui va digérer mon projet. En tant que créateur il est important de comprendre cette fluidité des créations et d'utiliser ces effets dans sa production. Ainsi le designer peut se positionner comme un lanceur de vaisseaux de design à travers Internet et observer par la suite ce que ces vaisseaux deviennent. Le designer peut créer du contenu sous forme de petites unités inspirées des _mèmes_ et distiller ces entités de création une à une sur Internet. Il est peut être intéressant de subdiviser nos créations en unité, comme des _mèmes_, pour leur permettre de se propager sur Internet. Ce goutte à goutte de création va se mélanger au déluge de données qui compose déjà l'Internet.
 
 ![haters](img/haters1.jpg "haters")
+
 ![haters](img/haters2.jpg "haters")
+
 ![haters](img/haters3.png "haters")
+
+_Mèmes Internet : Haters gonna hate_
 ___
 Un exemple de design fluide, est le projet _Island in the Cloud_ de Metahaven. Le duo de graphistes hollandais a créé un projet autour des nouveaux Datacenter en Islande promus par le groupe _IMMI_ dont Eleanor Saitta et Smari Mc Carthy sont les représentants. Pour ce projet Metahaven a créé une série d'images entre le _mème internet_ et l'affiche, ils ont diffusé leurs images les unes après les autres sur Internet via leur _tumblr_. C'est un projet fluide car ces posters ne sont pas liés entre eux par une plateforme dédiée au projet, ils sont liés entre eux par leur ressemblance, leur mimétisme. Metahaven n'a pas conçu un site Internet, support fixe d'un projet. Ils ont créé des _mèmes_ postés sur _tumblr_ qui vont être copiés, dupliqués de _tumblr_ en _tumblr_ ou de sites en sites. Leurs créations sont des entités uniques, des images uniques, sans liens fixes entre elles, elles sont seulement liées par la ressemblance. Si nous recherchons dans Google Image le nom du projet, l'ensemble des images est rassemblée. Or, chacune d'entre elles indépendamment, informe sur le projet, mais elles forment un tout une fois regroupées grâce à Google Image. Ce principe de communication par la propagation est très fort sur Internet et je pense que les designers graphiques doivent s'en inspirer pour créer de nouveaux systèmes de diffusion de projets ou d'évènements. Qu'est-ce qu'un projet viral, qu'est-ce qu'une création virale? Nous pouvons imaginer des sites Internet qui débordent de leurs frontières. Ou bien, un site Internet qui reste à la surface de mon écran quelques instants après avoir consulté cette page. Il se diffuse. Internet est selon moi un espace liquide qui permet de nouvelles façons d'envisager la communication d'évènements ou de projets.
 
 ![mthvn](img/mthvn1.jpg "mthvn")
+
 ![mthvn](img/mthvn2.jpg "mthvn")
+
 ![mthvn](img/mthvn3.jpg "mthvn")
+
 ![mthvn](img/mthvn4.jpg "mthvn")
+
 ![mthvn](img/mthvn5.jpg "mthvn")
 
-
+_Projet **Island in the Cloud** de **Metahaven**_ 
 ___
 
 C'est ici que Google Image peut apparaitre comme un outil particulier. Cette plateforme permet de parcourir Internet à la recherche d'un corpus d'image, autour d'une notion. Nous pouvons imaginer que Google Image est le lieu de regroupement de nos créations subdivisées en cellules de création.
@@ -195,14 +242,11 @@ ___
 
 ## 3. Accompagnement graphique dans l'émergence d'une nouvelle cognition.
 
-<font color='bleue'>
-//// _Commentaire work in progress :_  
-J'ai regroupé récemment les deux dernières parties (3 et 4) en une seule. Donc pour le moment cette nouvelle partie n'est pas structurée, c'est encore les paragraphes des 2 dernières parties les uns à la suite des autres.
-L'idée est de parler dans cette partie de l'émergence d'un nouveau système de cognition basé sur la sémantique, les métalangages (ex: ieml Pierre Levy) et les métadonnées. 
-De ces métalangages et métadonnées je souhaite montrer que l'information se spécialise, elle permet la diversité, (donner l'exemple de la "longue traine" de Anderson). Ensuite montrer que l'utilisateur est de plus en plus au centre des choses sur Internet. Poser la question de la personnalisation et de la création personnalisée. Puis évoquer les recherches de Pierres Levy sur des écosystèmes de pensées. 
-La partie sur la surveillance sera surement différente, voir le supprimer. ////</font>
+
+	[ _Commentaire work in progress :_ J'ai regroupé récemment les deux dernières parties (3 et 4) en une seule. Donc pour le moment cette nouvelle partie n'est pas structurée, c'est encore les paragraphes des 2 dernières parties les uns à la suite des autres. L'idée est de parler dans cette partie de l'émergence d'un nouveau système de cognition basé sur la sémantique, les métalangages (ex: ieml Pierre Levy) et les métadonnées. De ces métalangages et métadonnées je souhaite montrer que l'information se spécialise, elle permet la diversité, (donner l'exemple de la "longue traine" de Anderson). Ensuite montrer que l'utilisateur est de plus en plus au centre des choses sur Internet. Poser la question de la personnalisation et de la création personnalisée. Puis évoquer les recherches de Pierres Levy sur des écosystèmes de pensées. La partie sur la surveillance sera surement différente, voir le supprimer.]
 
 #####Le web sémantique
+
 Dans la partie précédente, nous avons vu que la copie rend les informations mobiles sur Internet, elles se déplacent à travers le web par leur duplication. Cette prolifération des informations, est possible car leur contenu est scindé en unités d'informations: en données. Après avoir vu la fluidité des informations dans le mouvement, nous allons comprendre que le web tend à devenir un vaste océan de données fluides. Les données dont nous allons parler sont des unités de contenus qu'il ne faut pas confondre avec la fuite de nos données personnelles qui sont, elles, stockées ou utilisées à des fin commerciales. Dans cette partie, nous nous intéresserons au web _sémantique_. Quel est son potentiel dans l'univers des connaissances ainsi que les enjeux liés au design ?
 ___
 
@@ -214,11 +258,18 @@ Aujourd'hui, les pages web sont liées entre elles par des hyperliens. Demain, l
 Ce que Tim Berners Lee explique c'est que nous sommes à l'aube d'une potentielle révolution des connaissances. Si nous arrivons à rendre intelligible pour les ordinateurs le contenu qui est sur Internet, par la puissance de calcul, cela permettra une démultiplication des potentiels de connaissance. Il me semble que l'intelligence humaine et numérique sont complémentaires. De la même manière que _Wikipédia_ a transformé le champ des connaissances, le web sémantique peut dynamiter le savoir humain.
 
 ![alt text](img/semantic1.png "Semantique")
+
 ![alt text](img/semantic2.png "Semantique")
+
 ![alt text](img/semantic3.png "Semantique")
+
 ![alt text](img/semantic4.png "Semantique")
+
 ![alt text](img/semantic5.png "Semantique")
+
 ![alt text](img/semantic6.png "Semantique")
+
+_Vidéo **Linked Data** - Wikipédia_
 ___
 
 Dans l'article _The Hillis Knowledge Web_, Daniel Hillis évoque une sorte de _database_ qui hébergerait tout le savoir humain et ce réservoir de connaissances serait lisible par les ordinateurs qui analyseraient ce savoir et rendraient par la suite une compréhension utile aux Hommes.
@@ -235,7 +286,9 @@ Pierre Levy, auteur du livre référence : _L'intelligence collective, pour une 
 Pierre Levy, imagine un futur ou les objets, les personnes, les lieux seront augmentés d'un écosystème de connaissance, rendu visible par les _Google Glasses_ par exemple. "Dans la civilisation numérique du futur, ce ne sont pas seulement les groupes humains qui se réfléchiront dans des écosystèmes d’idées : chaque personne, chaque œuvre de l’esprit, chaque concept, chaque objet, chaque lieu, chaque événement sera doublé d’un hologramme dynamique figurant l’écosystème d’idées qui le concerne."
 
 ___
+
 #####Interfaces fluides pour une web décloisonné
+
 Nous venons de voir, que le contenu va s'affranchir de son support pour exister sous la forme d'entités, de données fluides. Par conséquent, le web va se décloisonner, se liquéfier. Les frontières solides entre les sites Internet vont disparaître. La division de l'information par leurs supports, les pages web vont se dissoudre. Les données n'appartiendront plus nécessairement à un site web, elles seront volatiles, reliées entre elles en fonction de leur sens. Ce sont les liens qui les relient qui sont importants, ce sont eux qui apportent le sens entre ces unités de contenu.
 ___
 
@@ -252,18 +305,24 @@ D'autre part, les choses tendent à s'inverser. Dans le design solide, le graphi
 De plus, aujourd'hui, nous assistons à l'émergence des _Templates_. Bien que le web sémantique n'existe pas réellement, les clients se tournent vers des sites déjà réalisés. L'architecture est définie avant que l'utilisateur n'y glisse son contenu. Créer un Template c'est créer une forme architecturale pour toute forme de contenu. Or, nous pouvons nous demander est ce que le fond doit guider la forme dans le design fluide ?
 
 ![template](img/strikingly.png "template")
+
+_Strinkingly_
 ___
 
 Ainsi, nous observons une division dans le travail du graphiste. Dans un premier cas, il peut agir sur le contenu en créant des unités virales qui se déploient sur Internet. Ces créations sont proches d'un acte politique, la parole est au designer. Dans un second cas, il travaille une architecture fluide de site Internet. La mise en page fluide, est une mise en page par la logique et par les systèmes. Ainsi, le design fluide est un design qui n'a pas d'emprise dans le temps.
 ___
+
 #####Métadonnées et web personnalisée 
+
 D'autre part, la navigation sur Internet est façonnée par les données que nous laissons. En connaissant nos habitudes, Google nous donne des réponses à nos requêtes plus performantes. Par exemple, Amazone à partir de mes recherches me propose des livres en rapport avec mes sujets de recherches. Ainsi, le web est en train de se personnaliser. Nos recherches vont être transformées par des algorithmes prédictifs, de ce fait Google saura avant nous quelles informations vont nous intéresser. Ainsi, notre accès à l'information va devenir complément personnalisé. Aujourd'hui, sans le savoir nous ne regardons pas le même web, chacun voit la page d'accueil d’Amazone en fonction de ses préférences, sans les avoir jamais définis.
 
 Nick Bilton explique dans son livre _I live in the Future & Here's How It Works_ que l'internaute est toujours au centre. Avec Internet nous sommes toujours au centre des choses. "Et ce centre change tout. Il change votre conception de l’espace, du temps et du lieu. Il change votre sens de la communauté. Il change la façon dont vous voyez l’information, l’actualité et les données arriver jusqu’à vous." Il prend l'exemple de la carte, avec _Google Map_ vous êtes toujours au centre de la carte. L'espace s'arrange autour de vous. Le Smartphone vous positionne sur la carte. Et si vous vous déplacez le centre se déplace aussi. C'est un changement par rapport aux cartes papiers qui, elles, organisent l'espace autour de lieux, de monuments. "Mais le monde numérique a changé cela. Désormais, nous sommes toujours au centre de la carte, et c’est un endroit très puissant où être." Ainsi, il explique que nous sommes devenus le centre, "le monde numérique vous suit et pas l’inverse.” L'information que nous consultons est donc "hyper-personnalisée". Ainsi, la jeune génération serait à la recherche de contenus personnalisés, d'expériences personnalisées. Et il ajoute "Pour les créateurs de contenus, cela pose un problème : s’ils ne proposent pas une option pour consommer un produit de manière personnelle." Le client est un "moi au centre" et l'ensemble des activités commerciales est transformé par cette nouvelle position. Est-ce que cela transforme le travail du design ? Je pense qu'il s'agit d'un enjeu intéressant pour le designer fluide. Le designer fluide souhaite que les données soient fluides comme nous l'avons vu dans la partie précédente. Les données fluides dans le cas du web sémantique sont la source d'une révolution des outils de connaissance. Or, est-ce que l'utilisation de données personnelles est intéressante ?
 
 #####Utilisation des données personnelles, création personnalisée
+
 Aujourd'hui, la question de l'utilisation de nos données personnelles est un des enjeux principaux de notre société. Edward Snowden a révélé l'année dernière la collecte massive par la NSA des données des citoyens du monde entier. Nous avons remarqué dans le chapitre précédent que les données sont fluides, or nous pouvons remarquer que certaines d'entre elles sont stockées, archivées (par des états ou des entreprises privées). Elles sont figées dans le temps car collectées en vue d'être utilisées ultérieurement à des fins d'analyses de nos comportements. Ces données sont fixes, solides.
 ___
+
 Ce stock des données entrave le respect de la vie privée. Les entreprises récoltent des informations sur nos comportements, les entreprises privées gardent des informations que nous ignorons de nous-même. Ainsi, l'un des combats par rapport à ce stockage massif est-il de récupérer les droits sur nos données. Pour le moment, nous n'avons pas de droits sur nos propres données personnelles, il y a des licences qui sont en trains de s'élaborer pour réguler ces pratiques. Thomas Saint-Aubin travaille sur des licences qui permettent aux utilisateurs d'avoir l’accès et la propriété de leurs données, il a nommé ces initiatives "design you privacy" = concevez votre vie privée.
 
 D'autre part, Julien Assange et Jacob Appelbaum énoncent, dans _Menaces sur nos vies privés_, les dérives de la surveillance. Si la surveillance par les états a toujours existée, les Smartphones sont devenus les mouchards les plus puissants jamais inventés. Sans nous en rendre compte, nos actes sont entièrement observés. Les métadonnées donnent des informations très précises de nos faits et gestes. Ces informations sont par exemple, notre position géographique. C'est à dire où nous nous trouvons, où nous allons quotidiennement. D'autre part, il s'agit de nos comportements sur Internet: les sites internet que nous consultons, les textes que nous lisons. Ces informations peuvent rapidement former un portrait-robot de ce que nous pensons.
@@ -275,13 +334,12 @@ Nous allons envisager dans cette partie les enjeux d'un design personnalisé. No
 
 L’utilisation des métadonnées nous permet de produire des formes qui auront un affichage différent pour chaque individu. En programmant des formes créées en fonction des informations de l'utilisateur, nous permettons au designer de programmer une infinité de formes. L'intérêt est de trouver des formes pertinentes en fonction de l'utilisateur soit en lui plaisant, mais aussi, peut être en lui déplaisant volontairement. L’utilisation de ces données peut être un moyen de révéler ou de démontrer à l'usager les informations que nous pouvons utiliser: pour ou contre lui. Dans cette idée de design personnalisé, le travail du design se fluidifie par la multiplication exponentielle des formes qu'il crée. Ainsi, il crée un système unique qui aura une infinité de facettes différentes. Une équation très connue dans les arts graphiques est 1+1=3 soit une image plus une image équivaut à trois images. La troisième image née du sens formé par l'union des deux premières. Aujourd'hui, l'utilisation de données dans la création nous permet d'arriver à la création de l'infini, l'équation deviendra 1=∞. Cela nous permet de comprendre l'idée d'un design complètement éclaté, fluidifié dont la forme évolue premièrement par l'imitation des internautes mais aussi par l'intervention des informations de l'utilisateur.
 
-
-
-
 ## Conclusion
 ___
 
 ![alt text](img/graphic2.png "Mou")
+
+_Schéma des enjeux du design fluide_
 
 La première partie définit la base de la société fluide : l'idéologie du partage est le socle de la société fluide, c'est sa base. La liberté des échanges et la contribution sont les piliers de la société fluide. C'est la première marche vers un design fluide. Le designer fluide est un designer libre qui crée de manière ouverte pour la communauté dans la volonté d'augmenter les capacités du savoir. 
 C'est sur ce socle libre et ouvert qu'un nouveau langage basé sur la duplication et l'auto-organisation a pu se développer. L'activité des internautes rend la communication fluide. La capacité hautement mimétique d'Internet a permis l'émergence d'une nouvelle culture fluide ou les internautes agissent sur ce contenu sous la forme de masse. De ce fait, les informations se subdivisent en unités d'informations, qui se déplacent dans le cyberespace de manière virale comme le font les _mèmes_.
