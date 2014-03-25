@@ -88,6 +88,7 @@ Internet, par la copie et son espace unique et mondial, est un espace qui a prod
 
 	
 ##### c. le nombre  et  la copie deux nouveaux paramètre de création
+
 => le nombre / le réseau / nouveau paramètre dans la création
 ### 2. Le socle de la société fluide
 De ce double potentiel, lieu unique à l'échelle mondiale et espace de duplication sont nés de nouveaux systèmes de fonctionnement fondés sur la contribution, l'échange et le partage. La première facette qui correspond à une société fluide réside dans son organisation collaborative et ouverte. Cette première caractéristique représente le socle d'une société fluide. Les autres parties de la société fluide repose sur cette base libre et coopérative.
