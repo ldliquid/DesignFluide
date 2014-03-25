@@ -4,7 +4,8 @@ _Ce mémoire a été rédigé en _Markdown_. Il s'agit d'un langage de balisage,
 
 ![alt text](images/img.png "Mou")
 ___
-## Designer la société fluide
+
+#### Designer la société fluide
 
 Design web, design d'interaction, design multimédia, avec la démocratisation d'Internet des nouveaux métiers de designers se sont créés. Quels sont les enjeux de ces nouvelles professions? La société de l'information et l'émergence de la communication numérique ont déterminé une nouvelle industrie et de nouveaux systèmes économiques qui ont des conséquences sur le rôle du designer. Vingt ans après l'avènement d'Internet, je cherche à redéfinir le métier de _graphiste_. Je souhaite proposer une définition personnelle du design de demain: établir la fiche technique d'une nouvelle pratique de création.
 
@@ -22,7 +23,8 @@ Aujourd'hui, la circulation des informations a été transformée par le numéri
 
 De la même manière que le designer objet a eu une position stratégique pendant la révolution industrielle et la société de consommation du XXe siècle, le designer graphique a aujourd'hui une position centrale dans la société de l'information. Il peut agir à la fois sur des enjeux de société et des enjeux de design. Ainsi, à la fois en tant que _jeune_ et futur graphiste je souhaite formuler une proposition d'avenir: designer une société fluide. 
 ___
-## De la société fluide au design fluide
+
+## De la société fluide au design fluide
 
 Le terme de "fluide" est emprunté à l'auteur Joël de Rosnay, il est le premier à définir la société comme fluide dans son livre _Surfer la vie: Vers la société fluide_. L'auteur nous explique comment nous sommes en train de passer d'une société solide à une société fluide.
 
